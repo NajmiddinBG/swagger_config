@@ -1,0 +1,13 @@
+server:
+  port: 8888
+springdoc:
+  swagger-ui:
+    path: /swagger-ui
+  api-docs:
+    path: /api-docs
+
+info:
+  contact:
+    phone: '+998996673203'
+    email: 'botirovn1313@gmail.com'
+
